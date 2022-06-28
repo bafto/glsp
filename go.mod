@@ -1,4 +1,4 @@
-module github.com/tliron/glsp
+module github.com/bafto/glsp
 
 go 1.18
 
